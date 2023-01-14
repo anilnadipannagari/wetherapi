@@ -1,0 +1,39 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+h2{
+    padding: 100px;
+text-align: center;
+font-size: 100px;
+color:aliceblue
+}
+
+button{
+    background-color: white;
+    color: black;
+   padding-left: 550px;
+    height: 30px;
+    width: 400px;
+}
+#langlat{
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    color: white;
+    /* background-color: black; */
+}
+header{
+    background-color: black;
+    margin-
+}
+#map{
+   height:  50px;
+    width:70vw;
+    display: inline;
+}
+main{
+    background-color: aliceblue;
+    color: black;
+}
